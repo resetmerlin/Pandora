@@ -3,6 +3,8 @@
 
 ### CS
 - [Havard CS Guide](https://cdn.cs50.net/guide/guide-14-11x17.pdf)
+- https://cryptii.com/
+- https://astexplorer.net/
 
 ### System Design
 - https://github.com/ByteByteGoHq/system-design-101
@@ -18,6 +20,15 @@
     - Google Developer's blog(V8 Engine)
 - https://overreacted.io/
     - dan abramov's blog
+- https://www.fhinkel.rocks/
+    - Microsoft developer's blog
+- https://calendar.perfplanet.com/2022/
+    - Blog about web performance
+- https://ilya.grigorik.com/
+    - CTO of PostRank's blog
+- https://www.industrialempathy.com/
+    - Vercel CTO Blog
+- https://jsconf.com/
 - [Understanding How Programmers Can Use Annotations on Documentation](https://dl.acm.org/doi/abs/10.1145/3491102.3502095)
 - [Podcast about JS](https://topenddevs.com/podcasts/javascript-jabber)
  
@@ -32,6 +43,12 @@
 - https://jhalon.github.io/chrome-browser-exploitation-1/
 - https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
 - https://www.sciencedirect.com/science/article/pii/S2666281722000816
+- https://erdem.pl/2019/08/v-8-function-optimization
+- https://v8.dev/blog/react-cliff
+- https://www.youtube.com/watch?v=0I0d8LkDqyc
+- https://www.dashlane.com/blog/how-is-data-stored-in-v8-js-engine-memory
+- https://medium.com/@huidou/lets-understand-chrome-v8-chapter-7-stack-frame-bb3fa3b7ad5
+- https://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection
 ### JS
 - [JS Bible](https://everythingcomputerscience.com/books/all.pdf)
 - [ecmascript](https://262.ecma-international.org/6.0/#sec-ecmascript-language-types)
@@ -41,6 +58,7 @@
 - [JS under the hood medium](https://medium.com/@obrm770/javascript-under-the-hood-8cec84bbfd64)
 - [ES6 feature](http://es6-features.org/#Constants)
 - https://www.javascripttutorial.net/
+- [Deep JS](https://exploringjs.com/deep-js/toc.html)
 
 ### Frontend
 - [Tracing Js to the DOM](https://v8.dev/blog/tracing-js-dom)
@@ -51,3 +69,4 @@
 - [Render-tree Construction, Layout, and Paint](https://web.dev/articles/critical-rendering-path/render-tree-construction)
 - [Immutability in Redux and React](https://daveceddia.com/react-redux-immutability-guide/)
 - [Redux Tool Kit under the hood](https://egghead.io/lessons/javascript-introduction-to-the-in-depth-immer-course)
+- https://www.keycdn.com/blog/frontend-optimization
