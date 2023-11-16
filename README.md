@@ -10,3 +10,7 @@
     - Senior Developer's blog
 - https://www.crockford.com/riddle.html
     - Douglas Crockford's blog(He is an American computer programmer who is involved in the development of the JavaScript language )
+ 
+### Web
+#### Performance
+- https://hpbn.co/primer-on-web-performance/
