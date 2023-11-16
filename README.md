@@ -1,4 +1,4 @@
-# Pandora
+# Information source for myself
 
 
 ### CS
@@ -59,6 +59,11 @@
 - [ES6 feature](http://es6-features.org/#Constants)
 - https://www.javascripttutorial.net/
 - [Deep JS](https://exploringjs.com/deep-js/toc.html)
+- https://www.jschallenger.com/
+- https://leanpub.com/understandinges6/read/?ref=java5cript.com#leanpub-auto-the-road-to-ecmascript-6
+- https://eloquentjavascript.net/?ref=java5cript.com
+- https://read.humanjavascript.com/ch09-clientside-routing.html
+- https://www.java5cript.com/books
 
 ### Frontend
 - [Tracing Js to the DOM](https://v8.dev/blog/tracing-js-dom)
@@ -70,3 +75,4 @@
 - [Immutability in Redux and React](https://daveceddia.com/react-redux-immutability-guide/)
 - [Redux Tool Kit under the hood](https://egghead.io/lessons/javascript-introduction-to-the-in-depth-immer-course)
 - https://www.keycdn.com/blog/frontend-optimization
+- [Design Patterns](https://www.patterns.dev/)
