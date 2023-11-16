@@ -15,4 +15,4 @@
 #### Performance
 - https://hpbn.co/primer-on-web-performance/
 ### JS
-- https://everythingcomputerscience.com/books/all.pdf
+- [JS Bible](https://everythingcomputerscience.com/books/all.pdf)
