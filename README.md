@@ -16,3 +16,4 @@
 - https://hpbn.co/primer-on-web-performance/
 ### JS
 - [JS Bible](https://everythingcomputerscience.com/books/all.pdf)
+- [ecmascript](https://262.ecma-international.org/6.0/#sec-ecmascript-language-types)
