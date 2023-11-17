@@ -76,3 +76,6 @@
 - [Redux Tool Kit under the hood](https://egghead.io/lessons/javascript-introduction-to-the-in-depth-immer-course)
 - https://www.keycdn.com/blog/frontend-optimization
 - [Design Patterns](https://www.patterns.dev/)
+- 
+### Advices to become a good developer
+- https://www.youtube.com/watch?v=q-MLXYpkyqg
