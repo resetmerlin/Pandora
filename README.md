@@ -5,6 +5,8 @@
 - [Havard CS Guide](https://cdn.cs50.net/guide/guide-14-11x17.pdf)
 - https://cryptii.com/
 - https://astexplorer.net/
+- https://www.youtube.com/@Computerphile
+- https://www.youtube.com/@DmitrySoshnikov-education
 
 ### System Design
 - https://github.com/ByteByteGoHq/system-design-101
@@ -79,6 +81,17 @@
 - [Redux Tool Kit under the hood](https://egghead.io/lessons/javascript-introduction-to-the-in-depth-immer-course)
 - https://www.keycdn.com/blog/frontend-optimization
 - [Design Patterns](https://www.patterns.dev/)
+- [Understanding react rendering process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+- [How react works under the hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y&list=PLom9wCiJ95GKkaIUGisMypdNl5AYcFBUF&index=62&t=771s)
+
+### Frontend Youtube Channels
+- https://www.youtube.com/@JSHeroes/videos
+- https://www.youtube.com/@feconfkorea
+- https://www.youtube.com/@reactrally2196/videos
 - 
-### Advices to become a good developer
+### Advices to become a good developer 
 - https://www.youtube.com/watch?v=q-MLXYpkyqg
+
+### Tools for enhancing development
+- https://www.youtube.com/watch?v=46XQn4yfpDw&list=WL&index=17&t=1425s
+- https://www.youtube.com/watch?v=fFHlfbKVi30&list=PLom9wCiJ95GKkaIUGisMypdNl5AYcFBUF&index=2
