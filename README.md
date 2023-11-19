@@ -32,6 +32,7 @@
 - [Understanding How Programmers Can Use Annotations on Documentation](https://dl.acm.org/doi/abs/10.1145/3491102.3502095)
 - [Podcast about JS](https://topenddevs.com/podcasts/javascript-jabber)
     - This is like a podcast of senior dev talking about new skills(about web, frontend)
+- https://writingjavascript.com/
  
 ### Web
 #### Performance
