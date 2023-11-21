@@ -38,6 +38,13 @@
 - https://2ality.com/index.html
  
 ### Web
+#### Browser
+- https://developer.chrome.com/blog/inside-browser-part1/
+- https://developer.chrome.com/blog/inside-browser-part2/
+- https://developer.chrome.com/blog/inside-browser-part3/
+- https://developer.chrome.com/blog/inside-browser-part4/
+
+
 #### Performance
 - https://hpbn.co/primer-on-web-performance/
 - https://performance.shopify.com/
