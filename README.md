@@ -36,6 +36,8 @@
     - This is like a podcast of senior dev talking about new skills(about web, frontend)
 - https://writingjavascript.com/
 - https://2ality.com/index.html
+- https://leerob.io/
+
  
 ### Web
 #### Browser
