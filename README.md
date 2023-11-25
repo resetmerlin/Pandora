@@ -37,6 +37,7 @@
 - https://writingjavascript.com/
 - https://2ality.com/index.html
 - https://leerob.io/
+- https://jasonformat.com/blog
 - https://flaviocopes.com/
 
  
