@@ -39,6 +39,7 @@
 - https://leerob.io/
 - https://jasonformat.com/blog
 - https://flaviocopes.com/
+- 
 
  
 ### Web
@@ -94,6 +95,7 @@
 - [Design Patterns](https://www.patterns.dev/)
 - [Understanding react rendering process](https://www.youtube.com/watch?v=i793Qm6kv3U)
 - [How react works under the hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y&list=PLom9wCiJ95GKkaIUGisMypdNl5AYcFBUF&index=62&t=771s)
+- https://tech.osci.kr/tag/frontend/
 
 ### Frontend Youtube Channels
 - https://www.youtube.com/@JSHeroes/videos
