@@ -82,6 +82,9 @@
 - https://read.humanjavascript.com/ch09-clientside-routing.html
 - https://www.java5cript.com/books
 
+### TS
+- https://typehero.dev/explore/beginner
+
 ### Frontend
 - [Tracing Js to the DOM](https://v8.dev/blog/tracing-js-dom)
 - [토스트 UI 성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
@@ -108,3 +111,4 @@
 ### Tools for enhancing development
 - https://www.youtube.com/watch?v=46XQn4yfpDw&list=WL&index=17&t=1425s
 - https://www.youtube.com/watch?v=fFHlfbKVi30&list=PLom9wCiJ95GKkaIUGisMypdNl5AYcFBUF&index=2
+
