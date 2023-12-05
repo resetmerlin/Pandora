@@ -81,6 +81,7 @@
 - https://eloquentjavascript.net/?ref=java5cript.com
 - https://read.humanjavascript.com/ch09-clientside-routing.html
 - https://www.java5cript.com/books
+- https://javascriptpatterns.vercel.app/patterns (js design patterns)
 
 ### TS
 - https://typehero.dev/explore/beginner
